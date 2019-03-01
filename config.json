@@ -523,7 +523,7 @@
   "isWebTier": false,
   "httpProxy": {
     "useProxy": true,
-    "url": "https://mipc:3344/proxy.js"
+    "url": ""
   },
   "dataSource": {
     "dataSources": {},
