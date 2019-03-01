@@ -522,8 +522,8 @@
   "isTemplateApp": true,
   "isWebTier": false,
   "httpProxy": {
-    "useProxy": true,
-    "url": "https://mipc:3344/proxy.js"
+    "useProxy": false,
+    "url": ""
   },
   "dataSource": {
     "dataSources": {},
