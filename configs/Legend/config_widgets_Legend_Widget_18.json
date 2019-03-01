@@ -1,0 +1,29 @@
+{
+  "legend": {
+    "arrangement": 0,
+    "autoUpdate": true,
+    "respectCurrentMapScale": true
+  },
+  "layerState": {
+    "mapNotes_352": {
+      "selected": false
+    },
+    "Union_Tracks_shapefile_3474_0": {
+      "selected": true
+    },
+    "mapNotes_352_3": {
+      "selected": false
+    },
+    "mapNotes_352_2": {
+      "selected": false
+    },
+    "mapNotes_352_1": {
+      "selected": false
+    },
+    "mapNotes_352_0": {
+      "selected": false
+    }
+  },
+  "syncWithWebmap": false,
+  "showLegendForBasemap": false
+}
